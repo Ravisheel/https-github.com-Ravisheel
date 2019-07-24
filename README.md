@@ -7,4 +7,9 @@ in communicating with others with the help of this it will recognizes the gestur
 
 🤘 use this gesture in the rectangular box and it will predict (YOO!!)...
 
+
+first open code 1 then 2 then 3 and so on till 8 and put it in a one jupyter notebook 
+
+
+
 Thank you !!!!
